@@ -1,1 +1,1 @@
-vim.cmd 'colorscheme onehalfdark'
+vim.cmd 'colorscheme xcodelight'
